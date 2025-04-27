@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>SniperKittenCZ</translationContributors>
+    <texts>
+        <text name="input_SORT_SHOP" text="Změnit řazení obchodu" />
+        <text name="dialogTitle" text="Možnosti řazení" />
+        <text name="choose_sortMethod" text="Seřadit podle:" />
+        <text name="choose_sortOrder" text="Pořadí řazení:" />
+        <text name="choose_groupMethod" text="Seskupit položky modů na konci seznamu?" />
+        <text name="enum_sortOrder_ascending" text="Vzestupně" />
+        <text name="enum_sortOrder_descending" text="Sestupně" />
+        <text name="enum_sortMethod_name" text="Názvu" />
+        <text name="enum_sortMethod_price" text="Ceny" />
+        <text name="enum_sortMethod_power" text="Základního výkonu (koní)" />
+        <text name="enum_sortMethod_speed" text="Maximální rychlosti" />
+        <text name="enum_sortMethod_weight" text="Hmotnosti" />
+        <text name="enum_groupMethod_none" text="Ne, zakázat seskupování" />
+        <text name="enum_groupMethod_mods" text="Ano, skupina modifikací jako poslední" />
+		<text name="button_sortStore" text="ŘAZENÍ" />
+    </texts>
+</l10n>
